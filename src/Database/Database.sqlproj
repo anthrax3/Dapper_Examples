@@ -58,6 +58,7 @@
   <ItemGroup>
     <Folder Include="Properties" />
     <Folder Include="Tables" />
+    <Folder Include="Seeds" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Tables\Dinosaurs.sql" />
